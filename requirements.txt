@@ -1,0 +1,9 @@
+Groq
+langchain
+langchain-community
+langchain-groq
+python-dotenv
+langgraph 
+langgraph-checkpoint
+langchain-openai
+typing-extensions
