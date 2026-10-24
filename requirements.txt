@@ -8,3 +8,4 @@ langgraph-checkpoint
 langchain-openai
 typing-extensions
 langchain_tavily
+ipywidgets
